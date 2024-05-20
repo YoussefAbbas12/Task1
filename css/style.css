@@ -397,7 +397,7 @@ footer .info2{
     .headerLogo img,
     .headerLinks{
         position: relative;
-        right: 82px;
+        right: 55px;
     }
 }
 
@@ -410,6 +410,6 @@ footer .info2{
     }
     .navClose,
     .navIcon{
-        right: 30px;
+        right: 50px;
     }
 }
